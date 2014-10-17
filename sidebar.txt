@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[iyx:home|Door43 (iyx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-iyx|d43-iyx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-iyx/archive/master.zip|d43-iyx.zip]]
+
+**Recent Changes**
+{{changes>ns = iyx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/iyx|Ethnologue data]]
+
